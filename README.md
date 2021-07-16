@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RinnieRambler
+- 👋 Hi, I’m Corinne
 - 👀 I’m interested in web development & design.
 - 🌱 I’m currently learning to design & implement websites.
 - 💞️ I’m looking to collaborate on any projects that will allow me to put my learning into practice.
