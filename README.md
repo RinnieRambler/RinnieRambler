@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development & design.
 - 🌱 I’m currently learning and practicing to design & implement websites.
 - 👩‍💻 HTML5, CSS, TailwindCSS, JavaScript, jQuery, Jekyll, UX Design.
-- 💞️ I’m alwasy on the lookout for projects that will allow me to put my learning into practice.
+- 💞️ I’m always on the lookout for projects that will allow me to put my learning into practice.
 - 📫 How to reach me - INSTA @rinnierambler 
 
 <!---
