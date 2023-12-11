@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Corinne
-- 👀 I’m interested in web development & design.
-- 🌱 I’m currently learning and practicing to design & implement websites.
+- 👀 A web developer, visual designer & photographer.
+- 🌱 I’m currently working on growing my portfolio and expanding my skills.
 - 👩‍💻 HTML5, CSS, TailwindCSS, JavaScript, jQuery, Jekyll, UX Design.
-- 💞️ I’m always on the lookout for projects that will allow me to put my learning into practice.
+- 💞️ I’m always on the lookout for collabs.
 - 📫 How to reach me - INSTA @rinnierambler 
 
 <!---
